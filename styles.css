@@ -1,0 +1,63 @@
+.landing,
+.landing * {
+  box-sizing: border-box;
+}
+.landing {
+  background: #feedb7;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.lets-create-a-website-design {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 212px;
+  top: 475px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-codes {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 212px;
+  top: 578px;
+  width: 1011px;
+  height: 77px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 740px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 759px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
